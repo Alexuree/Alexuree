@@ -18,7 +18,7 @@ My target path is **AI Engineer / Applied AI Engineer**, with a particular focus
 | Project | Engineering highlights | Real-world context |
 |---|---|---|
 | [**TerrAI / AgrAId**](https://github.com/Alexuree/AgrAId) | Next.js, TypeScript, Supabase, LLM workflows, geospatial data, AEMET and automated PDF generation | Finalist at the **De-TECH Innovation Tech Challenge 2026 — Agriculture & Food Edition**, presented in Hannover |
-| [**Tamamoli**](https://github.com/Alexuree/Tamamoli) | ESP32, NFC, offline event queue, PostgreSQL/Supabase, Realtime, RLS and multi-role web platform | Educational attendance system used with **300+ registered students** in a school in the Community of Madrid |
+| [**Tamamoli**](https://github.com/Alexuree/Tamamoli) | ESP32, NFC, offline event queue, PostgreSQL/Supabase, Realtime, RLS and multi-role web platform | Educational attendance system used with **300+ registered students** in a school in Madrid |
 | [**Aurora TPV**](https://github.com/Alexuree/Aurora-TPV) | React, TypeScript, Electron, Supabase, transactional retail domain and ESC/POS hardware integration | Custom point-of-sale platform designed around the workflows of two physical businesses in Madrid |
 
 ## Engineering toolkit
